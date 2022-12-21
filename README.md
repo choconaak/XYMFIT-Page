@@ -5,7 +5,7 @@
 [01_introduction.md](01_introduction.md)
 [02_setting.md](02_setting.md)
 
-##README
+## README
 - This is the XYMFIT PAGE(Haven't finished yet.)
 
 ## 使い方
