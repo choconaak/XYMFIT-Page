@@ -1,0 +1,8 @@
+remote_theme: rundocs/jekyll-rtd-theme
+title: Template
+description: Template
+lang: it
+baseurl: ""
+url: ""
+google:
+  gtag:
