@@ -2,7 +2,7 @@ remote_theme: rundocs/jekyll-rtd-theme
 title: Template
 description: Template
 lang: it
-baseurl: ""
+baseurl: "/jekyll-site-template"
 url: ""
 google:
   gtag:
