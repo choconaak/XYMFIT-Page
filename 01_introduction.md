@@ -1,3 +1,3 @@
 # WHITE PAPER
 
-[XYMFIT_WHITE PAPER](_config.yml)
+[XYMFIT_WHITE PAPER](XYM FIT解説.pdf)
