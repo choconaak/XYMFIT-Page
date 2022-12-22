@@ -2,7 +2,7 @@
 
 [01_WHITE PAPER](01_WHITEPAPER.md)
 
-[02_DOWNLOAD](02_setting.md)
+[02_DOWNLOAD](02_DOWNLOAD.md)
 
 - This is the XYMFIT PAGE(Haven't finished yet.)
 
