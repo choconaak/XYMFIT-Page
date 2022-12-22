@@ -1,1 +1,3 @@
-# page1
+# WHITE PAPER
+
+[XYMFIT_WHITE PAPER](_config.yml)
