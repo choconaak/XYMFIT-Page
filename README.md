@@ -2,7 +2,7 @@
 
 ここがサイトのトップページになります。
 
-[01_introduction.md](01_introduction.md)
+[01_introduction.md](01_WHITEPAPER.md)
 
 [02_setting.md](02_setting.md)
 
