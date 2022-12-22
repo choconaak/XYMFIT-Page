@@ -1,8 +1,8 @@
 remote_theme: rundocs/jekyll-rtd-theme
-title: Template
+title: XYMFIT
 description: Template
-lang: it
-baseurl: "/jekyll-site-template"
+lang: jp
+baseurl: "/XYMFIT_site"
 url: ""
 google:
   gtag:
