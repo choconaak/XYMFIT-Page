@@ -2,7 +2,7 @@ remote_theme: rundocs/jekyll-rtd-theme
 title: XYMFIT
 description: Template
 lang: jp
-baseurl: "/XYMFIT_site"
+baseurl: "/XYMFIT-Page"
 url: ""
 google:
   gtag:
