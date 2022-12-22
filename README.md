@@ -4,12 +4,6 @@
 
 [02_DOWNLOAD](02_setting.md)
 
-<<<<<<< HEAD
-[02_setting.md](02_DOWNLOAD.md)
-
-## README
-=======
->>>>>>> 20436526f7d390c507936b311fb05b04163139b3
 - This is the XYMFIT PAGE(Haven't finished yet.)
 
 ## XYMFITとは
