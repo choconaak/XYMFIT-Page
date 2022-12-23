@@ -1,5 +1,6 @@
 # TECHNICAL DOCUMENT
 
-[XYMFIT_WHITE PAPER](Introduction_XYMFIT.pdf)
+[TECNICAL DOCUMENT](XYMFIT_Technical Document.pdf)
 
 Sorry. Written in Japanese.
+詳しい計算根拠とか載せてます
