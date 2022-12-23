@@ -15,8 +15,3 @@
 - 現在テストネットで運用中。テストネットアカウントを作成し、NFT作成料金その他諸々を含めて500XYMくらいフォーセットしておくと遊びやすい
 
 - 絶賛開発中。デザイン面誰か助けて
-	
-## 使い方
-
-- Twitter Card を表示する際には [\_includes/common/twitter_cards.liquid](_includes/common/twitter_cards.liquid) を修正します
-- 画像を挿入する際には[こんな感じ](https://github.com/ymuichiro/quick_learning_symbol_ja/tree/main/assets/images) で画像を置いてそれを参照してください
