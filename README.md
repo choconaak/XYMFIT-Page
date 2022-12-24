@@ -4,6 +4,8 @@
 
 [02_DOWNLOAD](02_DOWNLOAD.md)
 
+[03_DOCUMENT](03_DOCUMENT.md)
+
 - This is the XYMFIT PAGE(Haven't finished yet.)
 
 ## XYMFITとは
