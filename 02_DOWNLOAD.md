@@ -8,5 +8,5 @@ Click to download.
   - Fix some issue.
   - Update SNS Button specification.
 
-
+## 
 - APKファイルはAndroid smartphoneにそのままダウンロードしてインストールしてもらえれば使えます
