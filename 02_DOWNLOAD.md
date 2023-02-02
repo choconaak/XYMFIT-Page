@@ -2,9 +2,10 @@
 
 Click to download.
 
-[XYMFIT_Version_Testnet](xymfit_TEST.apk)
+https://deploygate.com/distributions/f66eead93a4ffecf6700d14850f4f870127d8dfb
 
-- APKファイルはAndroid smartphoneにそのままダウンロードしてインストールしてもらえれば使えます
+
+- deploygateの操作に従ってインストールしてください
 
 ## UPDATE
   - Fix some issue.
