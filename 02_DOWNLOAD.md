@@ -9,7 +9,7 @@ Click to download.
 
 ## UPDATE
   - Fix some issue.
-  - Update SNS Button specification.
+  - Inproved shoes design.
 
 
 
